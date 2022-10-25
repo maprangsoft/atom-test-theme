@@ -1,10 +1,13 @@
 {
-  "name": "atom-dark-ui",
+  "name": "k test",
   "theme": "ui",
   "version": "0.53.3",
-  "description": "A dark UI theme for Atom",
+  "description": "test test",
+  "keywords": [
+    "k1","k2"
+  ],
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/atom/xxxx",
   "engines": {
     "atom": ">0.40.0"
   }
