@@ -7,7 +7,7 @@
     "k1","k2"
   ],
   "license": "MIT",
-  "repository": "https://github.com/maprangsoft/atom-test-theme.git",
+  "repository": "https://github.com/maprangsoft/atom-test-theme",
   "engines": {
     "atom": ">0.40.0"
   }
